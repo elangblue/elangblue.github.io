@@ -3,11 +3,7 @@ index.htm
 index_htm_files/1.png
 index_htm_files/1@2x.png
 index_htm_files/45@2x.jpg
-index_htm_files/30.png
-index_htm_files/30@2x.png
 index_htm_files/XaraWDEmbeddedHTMLfont1.ttf
 index_htm_files/XaraWDEmbeddedHTMLfont1.eot
 index_htm_files/XaraWDEmbeddedHTMLfont2.ttf
 index_htm_files/XaraWDEmbeddedHTMLfont2.eot
-index_htm_files/XaraWDEmbeddedHTMLfont3.ttf
-index_htm_files/XaraWDEmbeddedHTMLfont3.eot
