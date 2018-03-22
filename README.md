@@ -1,2 +1,0 @@
-# elangbiru.github.io
-Drone
