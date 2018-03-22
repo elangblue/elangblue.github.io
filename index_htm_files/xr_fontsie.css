@@ -1,3 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Arimo:regular,700&subset=latin);
-@font-face {font-family: 'Corbel Regular';src: url("XaraWDEmbeddedHTMLfont1.eot?") format("embedded-opentype"), local('Corbel Regular'), local("Corbel");}
-@font-face {font-family: 'Corbel Bold';src: url("XaraWDEmbeddedHTMLfont2.eot?") format("embedded-opentype"), local('Corbel Bold'), local("Corbel");}
+@font-face {font-family: 'Agency FB Regular';src: url("XaraWDEmbeddedHTMLfont1.eot?") format("embedded-opentype"), local('Agency FB Regular'), local("AgencyFB");}
+@font-face {font-family: 'Arial Black';src: url("XaraWDEmbeddedHTMLfont2.eot?") format("embedded-opentype"), local('Arial Black'), local("ArialBlack");}
+@font-face {font-family: 'Verdana Regular';src: url("XaraWDEmbeddedHTMLfont3.eot?") format("embedded-opentype"), local('Verdana Regular'), local("Verdana");}
