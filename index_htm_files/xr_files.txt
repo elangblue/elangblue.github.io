@@ -37,9 +37,6 @@ index_htm_files/201.jpg
 index_htm_files/202.jpg
 index_htm_files/203.jpg
 index_htm_files/204.jpg
-index_htm_files/242.png
-index_htm_files/244.png
-index_htm_files/245.png
 index_htm_files/loading.gif
 index_htm_files/default.css
 index_htm_files/bullets.png
